@@ -592,8 +592,8 @@ input[type='checkbox'] {
 
 .spinner-wrapper .logo{
 	position: absolute;
-	top: 37%; /* centers the loading animation vertically one the screen */
-	left: 49%; /* centers the loading animation horizontally one the screen */
+	top: 30%; /* centers the loading animation vertically one the screen */
+	left: 44%; /* centers the loading animation horizontally one the screen */
 	width: 6.75rem;
 	height: 6.25rem;
 	margin: -0.625rem 0 0 -1.875rem; /* is width and height divided by two */

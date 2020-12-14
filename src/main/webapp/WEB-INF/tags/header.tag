@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h1>MAU BIKIN <span id="js-rotating">KAOS, KEMEJA, POLO, JAKET, HOODIE, SWEATER, ALMAMATER, TOPI</span>?</h1>
+                        <h1>MAU BIKIN <span id="js-rotating">T-SHIRT, KEMEJA, POLO SHIRT, JAKET, HOODIE, SWEATER, ALMAMATER, SERAGAM, ROMPI, TOGA, TOPI, AKSESORIS</span>?</h1>
                         <p class="p-heading p-large">Kami siap melayani segala kebutuhan konveksi anda, dengan mengutamakan kualitas dan ketepatan waktu dengan harga yang kompetitif dan terjangkau.</p>
                         <a class="btn-solid-lg page-scroll" href="#intro">ORDER SEKARANG</a>
                     </div>
