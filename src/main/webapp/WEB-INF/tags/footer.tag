@@ -18,7 +18,7 @@
 
             <div class="col-lg-6">
                 <div class="text-container">
-                    <h3>Follow ctrl xyz di sosial media</h3>
+                    <h3>Follow Control xyz di sosial media</h3>
 
                     <span class="fa-stack">
                                 <a href="#your-link">
@@ -147,7 +147,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <p class="p-small">Copyright © 2020 <a href="/">Ctrl xyz</a></p>
+                <p class="p-small">Copyright © 2020 <a href="/">Control xyz</a></p>
             </div> <!-- end of col -->
         </div> <!-- enf of row -->
     </div> <!-- end of container -->
@@ -155,7 +155,7 @@
 <!-- end of copyright -->
 
 <div class="wcf2w_widget_area">
-    <span data-phone="6287731132796" data-msg="Hi, Konveksi ctrl xyz" class="whatsapp_button" style="background-color: #2ECC71; color: #ffffff; right:20px; bottom:20px">
+    <span data-phone="6287731132796" data-msg="Hi, Konveksi control xyz" class="whatsapp_button" style="background-color: #2ECC71; color: #ffffff; right:20px; bottom:20px">
         <i class="fab fa-whatsapp"></i>
     </span>
 </div>

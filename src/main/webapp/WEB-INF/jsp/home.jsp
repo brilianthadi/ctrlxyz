@@ -103,7 +103,7 @@
                     <div class="card-image element-item2">
                         <a class="popup-with-move-anim" href="#project-1">
                             <div class="element-item-overlay">
-                                <span>KAOS</span>
+                                <span>T-SHIRT</span>
                             </div>
                             <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
                         </a>
@@ -116,7 +116,7 @@
                     <div class="card-image element-item2">
                         <a class="popup-with-move-anim" href="#project-1">
                             <div class="element-item-overlay">
-                                <span>POLO</span>
+                                <span>POLO SHIRT</span>
                             </div>
                             <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
                         </a>
@@ -155,9 +155,87 @@
                     <div class="card-image element-item2">
                         <a class="popup-with-move-anim" href="#project-1">
                             <div class="element-item-overlay">
+                                <span>SWEATER</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
                                 <span>ALMAMATER</span>
                             </div>
                             <img class="img-fluid" src="images/gallery/almamater-1.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
+                                <span>SERAGAM</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
+                                <span>ROMPI</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
+                                <span>TOGA</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
+                                <span>TOPI</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                        </a>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image element-item2">
+                        <a class="popup-with-move-anim" href="#project-1">
+                            <div class="element-item-overlay">
+                                <span>AKSESORIS</span>
+                            </div>
+                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -212,7 +290,7 @@
                         <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
                     </div>
                     <div class="card-body">
-                        <h3 class="card-title">Paket Basic</h3>
+                        <h3 class="card-title">Paket Standard</h3>
                         <p>Perfect for fresh ideas or young startups, this package will help get the business off the ground</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
@@ -238,7 +316,7 @@
                         <img class="img-fluid" src="images/services-2.jpg" alt="alternative">
                     </div>
                     <div class="card-body">
-                        <h3 class="card-title">Paket Standard</h3>
+                        <h3 class="card-title">Paket Midle</h3>
                         <p>Use this service pack to give your company the necessary impulse to become an industry leader</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
@@ -264,7 +342,7 @@
                         <img class="img-fluid" src="images/services-3.jpg" alt="alternative">
                     </div>
                     <div class="card-body">
-                        <h3 class="card-title">Paket PRO</h3>
+                        <h3 class="card-title">Paket Premium</h3>
                         <p>You already are a reference point in your industry now you need to learn about acquisitions</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
