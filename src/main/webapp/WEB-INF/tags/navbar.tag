@@ -16,16 +16,28 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link page-scroll" href="#header">HOME <span class="sr-only">(current)</span></a>
+                <a class="nav-link page-scroll" href="/">HOME <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link page-scroll" href="#services">LAYANAN KAMI</a>
+                <a class="nav-link page-scroll" href="/galeri">GALERI</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link page-scroll" href="#service-package">PAKET LAYANAN</a>
+                <a class="nav-link page-scroll" href="/ukuran">UKURAN</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link page-scroll" href="#projects">PROJECT</a>
+                <a class="nav-link page-scroll" href="/cara-pesan">CARA PESAN</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link page-scroll" href="/kalkulator-harga">KALKULATOR HARGA</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link page-scroll" href="/artikel">ARTIKEL</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link page-scroll" href="/tentang-kami">TENTANG KAMI</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link page-scroll" href="/form-pemesanan">FORM PEMESANAN</a>
             </li>
             <%--<li class="nav-item">
                 <a class="nav-link page-scroll" href="#callMe">CALL ME</a>
@@ -42,9 +54,9 @@
             </li>--%>
             <!-- end of dropdown menu -->
 
-            <li class="nav-item">
+            <%--<li class="nav-item">
                 <a class="nav-link page-scroll" href="#contact">KONTAK</a>
-            </li>
+            </li>--%>
         </ul>
         <span class="nav-item social-icons">
                 <span class="fa-stack">

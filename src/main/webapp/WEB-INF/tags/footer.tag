@@ -9,7 +9,8 @@
                     <p>Datang langsung ke workshop kami untuk langsung memilih bahan dan desain</p>
                     <ul class="list-unstyled li-space-lg">
                         <li class="address"><i class="fas fa-map-marker-alt"></i>Jalan Situ Indah IV Cigending Ujung Berung Kota Bandung 40611 </li>
-                        <li><i class="fas fa-phone"></i><a href="tel:087731132796">0877 3113 2796</a></li>
+                        <li><i class="fas fa-phone"></i><a href="tel:087820331197">0878 2033 1197</a></li>
+                        <li><i class="fab fa-whatsapp"></i><a href="https://web.whatsapp.com/send?l=id&phone=6287731132796&text=Hi,%20Konveksi%20control%20xyz" target="_blank">0877 3113 2796</a></li>
                         <li><i class="fas fa-envelope"></i><a href="mailto:ctrlxyz17@gmail.com">ctrlxyz17@gmail.com</a></li>
                     </ul>
 

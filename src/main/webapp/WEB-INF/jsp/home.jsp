@@ -92,7 +92,7 @@
                             <div class="element-item-overlay">
                                 <span>KEMEJA</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -101,11 +101,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-2">
                             <div class="element-item-overlay">
                                 <span>T-SHIRT</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kaos-1.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -114,11 +114,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-3">
                             <div class="element-item-overlay">
                                 <span>POLO SHIRT</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/polo-1.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -127,11 +127,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-4">
                             <div class="element-item-overlay">
                                 <span>JAKET</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/jaket-3.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/jaket-3.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -140,11 +140,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-5">
                             <div class="element-item-overlay">
                                 <span>HOODIE</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/hoodie-1.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -153,11 +153,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-6">
                             <div class="element-item-overlay">
                                 <span>SWEATER</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/sweater-1.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -166,11 +166,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-7">
                             <div class="element-item-overlay">
                                 <span>ALMAMATER</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/almamater-1.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/almamater-1.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -179,11 +179,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-8">
                             <div class="element-item-overlay">
                                 <span>SERAGAM</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -192,11 +192,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-9">
                             <div class="element-item-overlay">
                                 <span>ROMPI</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -205,11 +205,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-10">
                             <div class="element-item-overlay">
                                 <span>TOGA</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -218,11 +218,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-11">
                             <div class="element-item-overlay">
                                 <span>TOPI</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/topi-2.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -231,11 +231,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image element-item2">
-                        <a class="popup-with-move-anim" href="#project-1">
+                        <a class="popup-with-move-anim" href="#project-12">
                             <div class="element-item-overlay">
                                 <span>AKSESORIS</span>
                             </div>
-                            <img class="img-fluid" src="images/gallery/kemeja-seculab.jpg" alt="alternative">
+                            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
                         </a>
                     </div>
                 </div>
@@ -247,30 +247,283 @@
 </div> <!-- end of cards-2 -->
 <!-- end of services -->
 
-<%--
-<!-- Intro -->
-<div class="basic-1">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="text-container">
-                    &lt;%&ndash;<div class="section-title">PENAWARAN</div>&ndash;%&gt;
-&lt;%&ndash;                    <h2>Penawaran kami</h2>&ndash;%&gt;
-                    <p>Kami menawarkan berbagai jenis paket layanan untuk berbagai jenis pakaian dengan berbagai jenis bahan</p>
-                    <p class="testimonial-text">"Kualitas produk dan kepuasan pelanggan adalah strategi bisnis kami..."</p>
-                    <div class="testimonial-author">Diki Muhammad Sidik - CEO Ctrl xyz</div>
-                </div> <!-- end of text-container -->
-            </div> <!-- end of col -->
-            <div class="col-lg-7">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/diki.jpg" alt="alternative">
-                </div> <!-- end of image-container -->
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of basic-1 -->
-<!-- end of intro -->
---%>
+<!-- Project Lightboxes -->
+<!-- Lightbox -->
+<div id="project-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Kemeja</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=kemeja">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kaos-1.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>T-Shirt</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=kaos">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/polo-1.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Polo Shirt</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=polo">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-4" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/jaket-3.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Jaket</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=jaket">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-5" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/hoodie-1.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Hoodie</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=hoodie">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-6" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/sweater-1.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Sweater</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=sweater">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-7" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/almamater-1.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Almamater</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=almamater">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-8" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Seragam</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=seragam">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-9" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Rompi</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=rompi">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-10" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Toga</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=toga">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-11" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/topi-2.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Topi</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=topi">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+
+<!-- Lightbox -->
+<div id="project-12" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="row">
+        <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+        <div class="col-lg-8">
+            <img class="img-fluid" src="images/main-type/kemeja-seculab.jpg" alt="alternative">
+        </div> <!-- end of col -->
+        <div class="col-lg-4">
+            <h3>Aksesoris</h3>
+            <hr class="line-heading">
+            <h6>Strategy Development</h6>
+            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+            <div class="testimonial-container">
+                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                <p class="testimonial-author">General Manager</p>
+            </div>
+            <a class="btn-solid-reg" href="/order?type=aksesoris">ORDER</a> <a class="btn-outline-reg mfp-close as-button">BACK</a>
+        </div> <!-- end of col -->
+    </div> <!-- end of row -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of lightbox -->
+<!-- end of project lightboxes -->
 
 <!-- Services -->
 <div id="service-package" class="cards-2">
@@ -316,7 +569,7 @@
                         <img class="img-fluid" src="images/services-2.jpg" alt="alternative">
                     </div>
                     <div class="card-body">
-                        <h3 class="card-title">Paket Midle</h3>
+                        <h3 class="card-title">Paket Middle</h3>
                         <p>Use this service pack to give your company the necessary impulse to become an industry leader</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
@@ -640,6 +893,7 @@
                     <a class="button" data-filter=".sablon"><span>SABLON</span></a>
                     <a class="button" data-filter=".topi"><span>TOPI</span></a>
                     <a class="button" data-filter=".masker"><span>MASKER</span></a>
+                    <a class="button see-all" href="/galeri"><span>LIHAT SEMUA GALERI >></span></a>
                 </div> <!-- end of button group -->
                 <div class="grid">
                     <div class="element-item bordir">
@@ -673,7 +927,7 @@
                         <img src="images/gallery/kemeja-pln.jpg"/>
                     </div>
                     <div class="element-item kemeja bordir">
-                        <img src="images/gallery/kemeja-seculab.jpg"/>
+                        <img src="images/gallery/kemeja-karangtaruna.jpg"/>
                     </div>
                     <div class="element-item kemeja bordir">
                         <img src="images/gallery/kemeja-sistem-instrumentasi.jpg"/>
@@ -710,193 +964,6 @@
     </div> <!-- end of container -->
 </div> <!-- end of filter -->
 <!-- end of projects -->
-
-
-<!-- Project Lightboxes -->
-<!-- Lightbox -->
-<div id="project-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-1.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Online Banking</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-2.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Classic Industry</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-3.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>BoomBap Audio</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-4" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-4.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Van Moose</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-5" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-5.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Joy Moments</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-6" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-6.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Spark Events</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-7" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-7.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Casual Wear</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-
-<!-- Lightbox -->
-<div id="project-8" class="lightbox-basic zoom-anim-dialog mfp-hide">
-    <div class="row">
-        <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-        <div class="col-lg-8">
-            <img class="img-fluid" src="images/project-8.jpg" alt="alternative">
-        </div> <!-- end of col -->
-        <div class="col-lg-4">
-            <h3>Zazoo Apps</h3>
-            <hr class="line-heading">
-            <h6>Strategy Development</h6>
-            <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
-            <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
-            <div class="testimonial-container">
-                <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
-                <p class="testimonial-author">General Manager</p>
-            </div>
-            <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a>
-        </div> <!-- end of col -->
-    </div> <!-- end of row -->
-</div> <!-- end of lightbox-basic -->
-<!-- end of lightbox -->
-<!-- end of project lightboxes -->
 
 <!-- Testimonials -->
 <div class="slider">
@@ -1117,61 +1184,6 @@
     </div> <!-- end of container -->
 </div> <!-- end of basic-2 -->
 <!-- end of team -->
-
-<%--
-<!-- About -->
-<div id="about" class="counter">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5 col-xl-6">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/about.jpg" alt="alternative">
-                </div> <!-- end of image-container -->
-            </div> <!-- end of col -->
-            <div class="col-lg-7 col-xl-6">
-                <div class="text-container">
-                    <div class="section-title">ABOUT</div>
-                    <h2>We're Passionate About Delivering Growth Services</h2>
-                    <p>Our goal is to provide the right business growth services at the appropriate time so companies can benefit from the created momentum and thrive for a long period of time</p>
-                    <ul class="list-unstyled li-space-lg">
-                        <li class="media">
-                            <i class="fas fa-square"></i>
-                            <div class="media-body">Everything we recommend has direct positive impact</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-square"></i>
-                            <div class="media-body">You will become an important partner of our company</div>
-                        </li>
-                    </ul>
-
-                    <!-- Counter -->
-                    <div id="counter">
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="231">1</div>
-                            <div class="counter-info">Happy<br>Users</div>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="121">1</div>
-                            <div class="counter-info">Issues<br>Solved</div>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="159">1</div>
-                            <div class="counter-info">Good<br>Reviews</div>
-                        </div>
-                    </div>
-                    <!-- end of counter -->
-
-                </div> <!-- end of text-container -->
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of counter -->
-<!-- end of about -->
---%>
-
-
-
-
 
 <tags:footer/>
 
